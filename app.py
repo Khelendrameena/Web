@@ -407,5 +407,4 @@ def table_exists(database_name, table_name):
     else:
         return 'NO'
 
-if __name__ == '__main__':
-    app.run(debug=True)
+
