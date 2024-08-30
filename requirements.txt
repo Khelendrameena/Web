@@ -1,5 +1,6 @@
 Flask==2.0.1
 Flask-Session==0.4.0
+numpy
 requests==2.26.0
 secure-smtplib==0.1.1
 gunicorn==22.0.0
